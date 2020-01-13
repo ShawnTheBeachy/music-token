@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>MusicToken</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Shawn Beachy</Authors>
+    <PackageTags>apple-music</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
